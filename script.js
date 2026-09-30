@@ -1,5 +1,5 @@
 // Replace this with your free Google Form URL when your club creates it.
-const SUBMISSION_FORM_URL = "PASTE-YOUR-GOOGLE-FORM-LINK-HERE";
+const SUBMISSION_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLSeLs9EnlEnaJ9uDv_VqPYuOCbtp5kNMbPMXuhzVPSbJmU6TsQ/viewform?usp=header";
 
 function openForm(event) {
   event.preventDefault();
